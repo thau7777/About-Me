@@ -34,9 +34,6 @@ I have experience building interconnected systems such as:
 * Roguelike progression systems
 
 I am comfortable working across different areas of game development when needed, and I adapt quickly to new systems, tools, and features.
-
-While my primary focus is gameplay systems, I can extend into other areas to support the overall development process.
-
 ---
 
 ## 📈 Learning Progression
