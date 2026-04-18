@@ -1,18 +1,22 @@
 <h1 align="center">Hi, I'm Hau Tran 👋</h1>
 
 <p align="center">
-  🎮 Game Developer | Unity Developer  
+  🎮 Gameplay Programmer | Unity Developer  
 </p>
 
 <p align="center">
-  I build <b>Game Systems</b> that are scalable, responsive, and performance-aware.
+  I build <b>gameplay systems</b> that are scalable, responsive, and performance-aware.
+</p>
+
+<p align="center">
+  Focused on building scalable gameplay systems and real-time game experiences
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am a **Game Developer** focused on designing and implementing **core gameplay systems** in Unity.
+I am a **Game Developer** focused on designing and implementing **Core Gameplay Systems** in Unity.
 
 My work emphasizes:
 
@@ -23,11 +27,15 @@ My work emphasizes:
 
 I have experience building interconnected systems such as:
 
-* Combat systems (real-time & turn-based)
+* Combat systems (real-time)
 * AI behavior (FSM / HSM)
 * Grid-based interaction systems
 * Event-driven architectures
 * Roguelike progression systems
+
+I am comfortable working across different areas of game development when needed, and I adapt quickly to new systems, tools, and features.
+
+While my primary focus is gameplay systems, I can extend into other areas to support the overall development process.
 
 ---
 
@@ -35,57 +43,68 @@ I have experience building interconnected systems such as:
 
 My projects reflect a clear progression in gameplay programming:
 
-- **Foundation** → Built and connected multiple gameplay systems (Farming Project)
-- **Application** → Focused on real-time gameplay, performance, and player experience (TPS Shooter)
-- **Refinement** → Designed scalable architecture and structured systems (Graduation Project)
-- 
----
+* **Foundation** → Built and connected multiple gameplay systems (Farming Project)
+* **Application** → Focused on real-time gameplay, performance, and player experience (TPS Shooter)
+* **Refinement** → Designed scalable architecture and structured systems (Graduation Project)
 
 This progression represents my transition from:
+
 > writing functional gameplay code → designing scalable gameplay systems
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌱 Farming Simulation Game (Foundation)
-- First large-scale project focused on **core gameplay systems**
-- Implemented:
-  - Grid-based farming system
-  - Animal production system
-  - Resource gathering & fishing
-  - Mine system with enemy AI (FSM)
-- Applied:
-  - ScriptableObject-based event system
-  - Object Pooling & Camera Culling
+
+* First large-scale project focused on **core gameplay systems**
+* Implemented:
+
+  * Grid-based farming system
+  * Animal production system
+  * Resource gathering & fishing
+  * Mine system with enemy AI (FSM)
+* Applied:
+
+  * ScriptableObject-based event system
+  * Object Pooling & Camera Culling
 
 👉 Focus: **Building and integrating multiple gameplay systems**
 
 ---
 
 ### 🔫 Third-Person Survival Shooter (System & Performance)
-- Developed after the farming project, focusing on **real-time gameplay and performance**
-- Implemented:
-  - Third-person shooting system (muzzle → crosshair)
-  - Enemy AI (FSM) with pathfinding
-  - Smart spawn system outside camera frustum (anti pop-in)
-  - Roguelike buff system (10+ buffs)
-- Applied:
-  - Object Pooling
-  - Avatar Mask for upper-body aiming
-  - Singleton for core systems
+
+* Developed after the farming project, focusing on **real-time gameplay and performance**
+* Implemented:
+
+  * Third-person shooting system (muzzle → crosshair)
+  * Enemy AI (FSM) with pathfinding
+  * Smart spawn system outside camera frustum (anti pop-in)
+  * Roguelike buff system (10+ buffs)
+* Applied:
+
+  * Object Pooling
+  * Avatar Mask for upper-body aiming
+  * Singleton for core systems
 
 👉 Focus: **Real-time systems, performance, and player experience**
 
 ---
 
 ### 🎓 Graduation Project – Roguelike Action Game (Advanced)
-- Latest and most complete project, combining all learned knowledge
-- Implemented scalable gameplay architecture:
-  - Hierarchical State Machine (HSM)
-  - Event-driven architecture (Event Bus)
-  - Strategy pattern (skills & items)
-- Focused on:
-  - System scalability
-  - Clean architecture
-  - Combat feel and responsiveness
+
+* Latest and most complete project, combining all learned knowledge
+* Implemented scalable gameplay architecture:
+
+  * Hierarchical State Machine (HSM)
+  * Event-driven architecture (Event Bus)
+  * Strategy pattern (skills & items)
+* Focused on:
+
+  * System scalability
+  * Clean architecture
+  * Combat feel and responsiveness
 
 👉 Focus: **System design, architecture, and scalability**
 
@@ -125,6 +144,7 @@ This progression represents my transition from:
 * Animator / VFX Graph / Particle System
 * NavMesh (AI pathfinding)
 * Tilemap / Grid System
+* Experience developing both 2D and 3D gameplay systems
 
 ---
 
@@ -144,6 +164,6 @@ This progression represents my transition from:
 ---
 
 <p align="center">
-  I am currently focusing on improving system architecture, code scalability, and real-world game development practices to reach a strong junior gameplay programmer level.
+  I am currently focusing on improving system architecture, code scalability, and real-world game development practices to reach a strong junior gameplay programmer level.  
   ⭐ Always learning, improving, and building better gameplay systems
 </p>
