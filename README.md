@@ -54,7 +54,7 @@ This progression represents my transition from:
 
 ### 🎓 Graduation Project – Roguelike Action Game (Advanced)
 
-🔗 [Repo](https://github.com/thau7777/project_3) • ▶️ [Play](...) • 🎥 [Video](...)
+🔗 [Repo](https://github.com/thau7777/project_3) • ▶️ [PC Download](https://github.com/thau7777/Project_3/releases/download/v1.0/CaptionFNF.zip) • 🎥 [Trailer](https://youtu.be/xLrVJfSz7FM)
 
 * Latest and most complete project, combining all learned knowledge
 * Implemented scalable gameplay architecture:
@@ -74,7 +74,7 @@ This progression represents my transition from:
 
 ### 🔫 Third-Person Survival Shooter (System & Performance)
 
-🔗 [Repo](https://github.com/thau7777/TPSExam) • ▶️ [Play](...) • 🎥 [Video](...)
+🔗 [Repo](https://github.com/thau7777/TPSExam) • ▶️ [PC Download](https://github.com/thau7777/TPSExam/releases/download/Lastest/SwarmShooterDemo.zip) • 🎥 [Gameplay](https://youtu.be/N13rMjGHIpc)
 
 * Developed after the farming project, focusing on **real-time gameplay and performance**
 * Implemented:
@@ -95,7 +95,7 @@ This progression represents my transition from:
 
 ### 🌱 Farming Simulation Game (Foundation)
 
-🔗 [Repo](https://github.com/thau7777/Project2) • 🎥 [Video](...)
+🔗 [Repo](https://github.com/thau7777/Project2) • 🎥 [Video](https://www.youtube.com/watch?v=Oop8stAIWxA)
 
 * First large-scale project focused on **core gameplay systems**
 * Implemented:
