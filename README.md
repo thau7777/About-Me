@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I am a **Gameplay Programmer** focused on designing and implementing **core gameplay systems** in Unity.
+I am a **Game Developer** focused on designing and implementing **core gameplay systems** in Unity.
 
 My work emphasizes:
 
