@@ -55,7 +55,8 @@ This progression represents my transition from:
 ### 🎓 Graduation Project – Roguelike Action Game (Advanced)
 
 🔗 [Repo](https://github.com/thau7777/project_3) • ▶️ [PC Download](https://github.com/thau7777/Project_3/releases/download/v1.0/CaptionFNF.zip) • 🎥 [Trailer](https://youtu.be/xLrVJfSz7FM)
-
+<a href="https://youtu.be/KEEI6nvmjgg"><img src="https://img.shields.io/badge/Video-Gameplay-green" /></a>
+<a href="https://www.youtube.com/watch?v=qWnVls9iFDA"><img src="https://img.shields.io/badge/Video-BossFight-yellow" /></a>
 * Latest and most complete project, combining all learned knowledge
 * Implemented scalable gameplay architecture:
 
