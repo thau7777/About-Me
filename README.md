@@ -57,7 +57,7 @@ This progression represents my transition from:
 
 ### 🌱 Farming Simulation Game (Foundation)
 
-🔗 [View Repository](https://github.com/thau7777/Project2) 
+🔗 [Repo](https://github.com/thau7777/Project2) • 🎥 [Video](...)
 
 * First large-scale project focused on **core gameplay systems**
 * Implemented:
@@ -77,7 +77,7 @@ This progression represents my transition from:
 
 ### 🔫 Third-Person Survival Shooter (System & Performance)
 
-🔗 **Repository:** https://github.com/thau7777/TPSExam
+🔗 [Repo](https://github.com/thau7777/TPSExam) • ▶️ [Play](...) • 🎥 [Video](...)
 
 * Developed after the farming project, focusing on **real-time gameplay and performance**
 * Implemented:
@@ -98,7 +98,7 @@ This progression represents my transition from:
 
 ### 🎓 Graduation Project – Roguelike Action Game (Advanced)
 
-🔗 **Repository:** https://github.com/thau7777/project_3
+🔗 [Repo](https://github.com/thau7777/project_3) • ▶️ [Play](...) • 🎥 [Video](...)
 
 * Latest and most complete project, combining all learned knowledge
 * Implemented scalable gameplay architecture:
