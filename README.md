@@ -139,7 +139,6 @@ This progression represents my transition from:
 ### ⚡ Optimization & Game Feel
 
 * Object pooling & memory optimization
-* Flyweight Factory
 * Camera-based culling
 * Spawn system design (anti pop-in)
 * Animation layering (Avatar Mask)
