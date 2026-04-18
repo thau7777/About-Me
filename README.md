@@ -57,7 +57,7 @@ This progression represents my transition from:
 
 ### 🌱 Farming Simulation Game (Foundation)
 
-🔗 **Repository:** https://github.com/thau7777/Project2
+🔗 [View Repository](https://github.com/thau7777/Project2) 
 
 * First large-scale project focused on **core gameplay systems**
 * Implemented:
