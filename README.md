@@ -132,11 +132,14 @@ This progression represents my transition from:
 * Event-driven architecture (ScriptableObject / Event Bus)
 * Strategy Pattern
 * Object Pooling
+* Flyweight Factory
+* Builder Pattern
 * Singleton (for core systems)
 
 ### ⚡ Optimization & Game Feel
 
 * Object pooling & memory optimization
+* Flyweight Factory
 * Camera-based culling
 * Spawn system design (anti pop-in)
 * Animation layering (Avatar Mask)
