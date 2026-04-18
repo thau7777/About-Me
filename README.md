@@ -52,8 +52,6 @@ This progression represents my transition from:
 
 ## 🚀 Featured Projects
 
----
-
 ### 🎓 Graduation Project – Roguelike Action Game (Advanced)
 
 🔗 [Repo](https://github.com/thau7777/project_3) • ▶️ [Play](...) • 🎥 [Video](...)
