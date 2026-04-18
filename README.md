@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build <b>gameplay systems</b> that are scalable, responsive, and performance-aware.
+  I build <b>game systems</b> that are scalable, responsive, and performance-aware.
 </p>
 
 ---
