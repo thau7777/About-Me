@@ -55,23 +55,23 @@ This progression represents my transition from:
 
 ## 🚀 Featured Projects
 
-### 🌱 Farming Simulation Game (Foundation)
+### 🎓 Graduation Project – Roguelike Action Game (Advanced)
 
-🔗 [Repo](https://github.com/thau7777/Project2) • 🎥 [Video](...)
+🔗 [Repo](https://github.com/thau7777/project_3) • ▶️ [Play](...) • 🎥 [Video](...)
 
-* First large-scale project focused on **core gameplay systems**
-* Implemented:
+* Latest and most complete project, combining all learned knowledge
+* Implemented scalable gameplay architecture:
 
-  * Grid-based farming system
-  * Animal production system
-  * Resource gathering & fishing
-  * Mine system with enemy AI (FSM)
-* Applied:
+  * Hierarchical State Machine (HSM)
+  * Event-driven architecture (Event Bus)
+  * Strategy pattern (skills & items)
+* Focused on:
 
-  * ScriptableObject-based event system
-  * Object Pooling & Camera Culling
+  * System scalability
+  * Clean architecture
+  * Combat feel and responsiveness
 
-👉 Focus: **Building and integrating multiple gameplay systems**
+👉 Focus: **System design, architecture, and scalability**
 
 ---
 
@@ -96,24 +96,23 @@ This progression represents my transition from:
 
 ---
 
-### 🎓 Graduation Project – Roguelike Action Game (Advanced)
+### 🌱 Farming Simulation Game (Foundation)
 
-🔗 [Repo](https://github.com/thau7777/project_3) • ▶️ [Play](...) • 🎥 [Video](...)
+🔗 [Repo](https://github.com/thau7777/Project2) • 🎥 [Video](...)
 
-* Latest and most complete project, combining all learned knowledge
-* Implemented scalable gameplay architecture:
+* First large-scale project focused on **core gameplay systems**
+* Implemented:
 
-  * Hierarchical State Machine (HSM)
-  * Event-driven architecture (Event Bus)
-  * Strategy pattern (skills & items)
-* Focused on:
+  * Grid-based farming system
+  * Animal production system
+  * Resource gathering & fishing
+  * Mine system with enemy AI (FSM)
+* Applied:
 
-  * System scalability
-  * Clean architecture
-  * Combat feel and responsiveness
+  * ScriptableObject-based event system
+  * Object Pooling & Camera Culling
 
-👉 Focus: **System design, architecture, and scalability**
-
+👉 Focus: **Building and integrating multiple gameplay systems**
 
 ---
 
