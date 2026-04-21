@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hau Tran 👋</h1>
 
 <p align="center">
-  🎮 Gameplay Programmer | Unity Developer  
+  Gameplay Programmer | Unity Developer  
 </p>
 
 <p align="center">
@@ -52,28 +52,28 @@ This progression represents my transition from:
 
 ## 🚀 Featured Projects
 
-### 🎓 Graduation Project – Roguelike Action Game (Advanced)
+### Graduation Project – Roguelike Action Game (Advanced)
 
-🔗 [Repo](https://github.com/thau7777/project_3) • ▶️ [PC Download](https://github.com/thau7777/Project_3/releases/download/Hau_ver/Law.Of.Heaven.zip) • 🎥 [Trailer](https://youtu.be/xLrVJfSz7FM) - [Gameplay](https://youtu.be/KEEI6nvmjgg) - [BossFight](https://www.youtube.com/watch?v=qWnVls9iFDA)
+[Repo](https://github.com/thau7777/project_3) • [PC Download](https://github.com/thau7777/Project_3/releases/download/Hau_ver/Law.Of.Heaven.zip) • [Trailer](https://youtu.be/xLrVJfSz7FM) - [Gameplay](https://youtu.be/KEEI6nvmjgg) - [BossFight](https://www.youtube.com/watch?v=qWnVls9iFDA)
 * Latest and most complete project, combining all learned knowledge
-* Implemented scalable gameplay architecture:
-
+* Implemented:
+  
   * Hierarchical State Machine (HSM)
   * Event-driven architecture (Event Bus)
   * Strategy pattern (skills & items)
-* Focused on:
+* Applied:
 
   * System scalability
   * Clean architecture
   * Combat feel and responsiveness
 
-👉 Focus: **System design, architecture, and scalability**
+Focus: **System design, architecture, and scalability**
 
 ---
 
-### 🔫 Third-Person Survival Shooter (System & Performance)
+### Third-Person Survival Shooter (System & Performance)
 
-🔗 [Repo](https://github.com/thau7777/TPSExam) • ▶️ [PC Download](https://github.com/thau7777/TPSExam/releases/download/Lastest/SwarmShooterDemo.zip) • 🎥 [Gameplay](https://youtu.be/N13rMjGHIpc)
+[Repo](https://github.com/thau7777/TPSExam) • [PC Download](https://github.com/thau7777/TPSExam/releases/download/Lastest/SwarmShooterDemo.zip) • [Gameplay](https://youtu.be/N13rMjGHIpc)
 
 * Developed in 10 days after the farming project, focusing on **real-time gameplay and performance**
 * Implemented:
@@ -88,13 +88,13 @@ This progression represents my transition from:
   * Avatar Mask for upper-body aiming
   * Singleton for core systems
 
-👉 Focus: **Real-time systems, performance, and player experience**
+Focus: **Real-time systems, performance, and player experience**
 
 ---
 
 ### 🌱 Farming Simulation Game (Foundation)
 
-🔗 [Repo](https://github.com/thau7777/Project2) • 🎥 [Trailer](https://www.youtube.com/watch?v=Oop8stAIWxA)
+[Repo](https://github.com/thau7777/Project2) • [Trailer](https://www.youtube.com/watch?v=Oop8stAIWxA)
 
 * First large-scale project focused on **core gameplay systems**
 * Implemented:
@@ -108,17 +108,17 @@ This progression represents my transition from:
   * ScriptableObject-based event system
   * Object Pooling & Camera Culling
 
-👉 Focus: **Building and integrating multiple gameplay systems**
+Focus: **Building and integrating multiple gameplay systems**
 
 ---
 
 ### 🗡️ Action Platformer – 2D Adventure Game (Starter)
 
-🎥 [Gameplay](#) *(link coming soon)*
+[Gameplay](#) *(link coming soon)*
 > ⚠️ Source code unavailable — lost before learning version control. Gameplay video only.
 
 * First large-scale personal project, built while still learning Unity fundamentals
-* An **incomplete** 2D action platformer featuring:
+* Implemented:
   * Skill selection system during combat (choose attack type before striking)
   * Skill tree for upgrading and unlocking abilities
   * In-game shop system
@@ -130,20 +130,20 @@ This progression represents my transition from:
 
 > No optimization techniques or design patterns applied — this project reflects early-stage thinking and a raw instinct for system design before formal architecture knowledge.
 
-👉 Focus: **Gameplay logic, environment design, and foundational thinking**
+Focus: **Gameplay logic, environment design, and foundational thinking**
 
 ---
 
 ## 🧩 Technical Skills
 
-### 🎮 Gameplay Systems
+### Gameplay Systems
 
 * Combat systems & player control
 * AI behavior (FSM / HSM)
 * Interaction systems (grid-based & context-based)
 * Roguelike systems & progression
 
-### 🏗️ Architecture & Patterns
+### Architecture & Patterns
 
 * Finite State Machine (FSM)
 * Hierarchical State Machine (HSM)
@@ -154,7 +154,7 @@ This progression represents my transition from:
 * Builder Pattern
 * Singleton (for core systems)
 
-### ⚡ Optimization & Game Feel
+### Optimization & Game Feel
 
 * Object pooling & memory optimization
 * Camera-based culling
