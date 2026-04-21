@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hau Tran 👋</h1>
+<h1 align="center">Hi, I'm Hau Tran</h1>
 <p align="center">Gameplay Programmer | Unity Developer</p>
 
 ---
