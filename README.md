@@ -72,11 +72,11 @@ Focus: **System design, architecture, and scalability**
 
 ---
 
-### Third-Person Survival Shooter (System & Performance)
+### Third-Person Survival Shooter (Rapid Delivery & Performance)
 
 [Repo](https://github.com/thau7777/TPSExam) • [PC Download](https://github.com/thau7777/TPSExam/releases/download/Lastest/SwarmShooterDemo.zip) • [Gameplay](https://youtu.be/N13rMjGHIpc)
 
-* Developed in 10 days after the farming project, focusing on **real-time gameplay and performance**
+* Built in **10 days** as a focused exercise in real-time performance and AI systems — scoped intentionally to deliver a complete, playable experience under time constraints
 * Implemented:
 
   * Third-person shooting system (muzzle → crosshair)
@@ -89,7 +89,7 @@ Focus: **System design, architecture, and scalability**
   * Avatar Mask for upper-body aiming
   * Singleton for core systems
 
-Focus: **Real-time systems, performance, and player experience**
+Focus: **Scoped delivery, real-time systems, and performance under constraint**
 
 ---
 
