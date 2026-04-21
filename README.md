@@ -75,7 +75,7 @@ This progression represents my transition from:
 
 🔗 [Repo](https://github.com/thau7777/TPSExam) • ▶️ [PC Download](https://github.com/thau7777/TPSExam/releases/download/Lastest/SwarmShooterDemo.zip) • 🎥 [Gameplay](https://youtu.be/N13rMjGHIpc)
 
-* Developed after the farming project, focusing on **real-time gameplay and performance**
+* Developed in 10 days after the farming project, focusing on **real-time gameplay and performance**
 * Implemented:
 
   * Third-person shooting system (muzzle → crosshair)
