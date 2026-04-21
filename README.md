@@ -112,6 +112,28 @@ This progression represents my transition from:
 
 ---
 
+### 🗡️ Action Platformer – 2D Adventure Game (Starter)
+
+🎥 [Gameplay](#) *(link coming soon)*
+> ⚠️ Source code unavailable — lost before learning version control. Gameplay video only.
+
+* First large-scale personal project, built while still learning Unity fundamentals
+* An **incomplete** 2D action platformer featuring:
+  * Skill selection system during combat (choose attack type before striking)
+  * Skill tree for upgrading and unlocking abilities
+  * In-game shop system
+  * Enemy AI with multi-state behavior:
+    * Patrol → Detect player → Chase → Attack
+    * Returns to patrol if chase is blocked by terrain (after short timeout)
+
+* Notable: **dark atmosphere with hand-crafted lighting design** — focused heavily on environmental mood and visual storytelling through light
+
+> No optimization techniques or design patterns applied — this project reflects early-stage thinking and a raw instinct for system design before formal architecture knowledge.
+
+👉 Focus: **Gameplay logic, environment design, and foundational thinking**
+
+---
+
 ## 🧩 Technical Skills
 
 ### 🎮 Gameplay Systems
