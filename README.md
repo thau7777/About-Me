@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Hau Tran 👋<p align="center">
+<h1 align="center">Hi, I'm Hau Tran 👋
+  <p align="center" font-size: 5px;>
   Gameplay Programmer | Unity Developer  
-</p></h1>
+  </p>
+</h1>
 
 ---
 
