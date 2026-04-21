@@ -40,13 +40,14 @@ I am comfortable working across different areas of game development when needed,
 
 My projects reflect a clear progression in gameplay programming:
 
+* **First Steps** → Explored core gameplay concepts through instinct and experimentation (Action Platformer)
 * **Foundation** → Built and connected multiple gameplay systems (Farming Project)
 * **Application** → Focused on real-time gameplay, performance, and player experience (TPS Shooter)
 * **Refinement** → Designed scalable architecture and structured systems (Graduation Project)
 
 This progression represents my transition from:
 
-> writing functional gameplay code → designing scalable gameplay systems
+> experimenting with gameplay ideas → writing functional systems → designing scalable gameplay architecture
 
 ---
 
