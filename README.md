@@ -31,9 +31,9 @@ I have experience building interconnected systems such as:
 * AI behavior (FSM / HSM)
 * Grid-based interaction systems
 * Event-driven architectures
-* Roguelike progression systems
 
 I am comfortable working across different areas of game development when needed, and I adapt quickly to new systems, tools, and features.
+
 ---
 
 ## 📈 Learning Progression
