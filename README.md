@@ -4,35 +4,11 @@
   Gameplay Programmer | Unity Developer  
 </p>
 
-<p align="center">
-  I build <b>gameplay systems</b> that are scalable, responsive, and performance-aware.
-</p>
-
-<p align="center">
-  Focused on building scalable gameplay systems and real-time game experiences
-</p>
-
 ---
 
 ## 🧠 About Me
 
-I am a **Game Developer** focused on designing and implementing **Core Gameplay Systems** in Unity.
-
-My work emphasizes:
-
-* System-driven gameplay design
-* Clean and maintainable architecture
-* Player experience and game feel
-* Performance optimization in real-time systems
-
-I have experience building interconnected systems such as:
-
-* Combat systems (real-time)
-* AI behavior (FSM / HSM)
-* Grid-based interaction systems
-* Event-driven architectures
-
-I am comfortable working across different areas of game development when needed, and I adapt quickly to new systems, tools, and features.
+Gameplay Programmer specializing in Unity (C#), focused on designing and implementing scalable gameplay systems — from combat and AI behavior to event-driven architectures. Progressed from instinct-driven experimentation to structured system design across 4 self-driven projects. Looking to bring structured thinking and a genuine passion for game feel into a professional team environment.
 
 ---
 
