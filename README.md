@@ -92,7 +92,7 @@ Focus: **Real-time systems, performance, and player experience**
 
 ---
 
-### 🌱 Farming Simulation Game (Foundation)
+### Farming Simulation Game (Foundation)
 
 [Repo](https://github.com/thau7777/Project2) • [Trailer](https://www.youtube.com/watch?v=Oop8stAIWxA)
 
@@ -112,7 +112,7 @@ Focus: **Building and integrating multiple gameplay systems**
 
 ---
 
-### 🗡️ Action Platformer – 2D Adventure Game (Starter)
+### Action Platformer – 2D Adventure Game (Starter)
 
 [Gameplay](#) *(link coming soon)*
 > ⚠️ Source code unavailable — lost before learning version control. Gameplay video only.
